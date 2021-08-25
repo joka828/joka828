@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joka828 / Joaquin Candalaft / Canda / Candita / Joka
 - 👀 I’m interested in web development, IoT, automations, electronics, DIY, and lots of other things.
-- 🌱 I’m currently learning everything I can that comes near me. 
+- 🌱 I’m currently learning Angular 2 and serverless functions. 
 - 💞️ I’m looking to collaborate on whatever helps people and/or brings money
 - 📫 Reach to me at `joaquin.candalaft@gmail.com`.
 - 🧡 I'm bad at presentations 🧡
