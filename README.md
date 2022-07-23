@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Angular and serverless functions. 
 - 💞️ I’m looking to collaborate on whatever helps people and/or brings money
 - 📫 Reach to me at `joaquin.candalaft@gmail.com`.
-- 💻 Check out [my portfolio](https://joaquincandalaft.com/)
+- 💻 Check out [my portfolio](https://joaquincandalaft.com/).
 - 🧡 I'm bad at presentations 🧡
